@@ -1,5 +1,3 @@
-# Energy-Consumption-Prediction
-Certainly! Below is an enhanced explanation section that provides a more detailed overview of each step in the code.
 
 ```markdown
 # Energy Consumption Prediction
