@@ -1,5 +1,4 @@
 
-```markdown
 # Energy Consumption Prediction
 
 This Python script predicts energy consumption load types using a Random Forest Classifier. The script encompasses several stages, including data preprocessing, feature scaling, label encoding, lagged feature creation, and model training, to facilitate accurate predictions.
