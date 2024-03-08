@@ -17,7 +17,7 @@ This Python script predicts energy consumption load types using a Random Forest 
 
 1. Clone the repository:
 
-   ```bash
+   ```b
    git clone https://github.com/sana-7123/energy-consumption-prediction.git
    ```
 
